@@ -412,4 +412,18 @@ This creates a `dist` folder that the backend will serve automatically.
 4. Make sure firewall isn't blocking ports 5000 or 5173
 5. Restart everything: close PowerShell windows, restart PostgreSQL, start fresh
 
-Good luck! 🎉
+Good luck! 
+
+
+
+1. Microsoft 365 Fundamentals : https://www.coursera.org/professional-certificates/microsoft-365-fundamentals
+2. Google Project Management: https://www.coursera.org/professional-certificates/google-project-management
+3. IBM Cognitive Class SQL: https://cognitiveclass.ai/courses/learn-sql-relational-databases
+4. Amazon AWS Prompt Engineering: https://skillbuilder.aws/learn/VF6H4SZ1BU/foundations-of-prompt-engineering/7U8XFUVXDT
+5. Deloitte Data Analytics: https://www.theforage.com/simulations/deloitte-au/data-analytics-s5zy
+6. Meta: https://www.coursera.org/professional-certificates/meta-social-media-marketing
+7. LinkedIn: https://www.linkedin.com/learning/paths/career-essentials-in-generative-ai-by-microsoft-and-linkedin
+8. HubSpot
+https://academy.hubspot.com/courses/digital-marketing
+9. Google Data Analytics
+https://www.coursera.org/professional-certificates/google-data-analytics
